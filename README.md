@@ -17,5 +17,7 @@ Android Kotlin MVVM
 <p><span style="text-decoration: underline;"><strong>Architecture:</strong></span></p>
 <p>This project follows Android architecture guidelines that are based on MVVM.</p>
 <p><img src="https://developer.android.com/topic/libraries/architecture/images/final-architecture.png" alt="" width="314" height="235" /></p>
+<p><span style="text-decoration: underline;"><strong>App Folder Structure:</strong></span></p>
+<img src="image/mvvm_app_screen.png" width=414 height=581>
 <p><span style="text-decoration: underline;"><strong>App Screen:</strong></span></p>
-<img src="image/demo_app_screen.png" width=350 height=600>
+<img src="image/demo_app_screen.png" width=300 height=550>
